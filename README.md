@@ -1,0 +1,2 @@
+# onOpen
+onOpen用のGAS
